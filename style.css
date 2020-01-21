@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.chair {
+    height: 60%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+}
