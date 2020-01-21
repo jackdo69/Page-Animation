@@ -25,6 +25,7 @@
     transform: translate(-50%, -20%);
     background: linear-gradient(to left, #87c7df, #648896);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -36,6 +37,7 @@
     font-size: 48px;
     background: linear-gradient(to left, #303030, #414141);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
